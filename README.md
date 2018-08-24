@@ -1,0 +1,1 @@
+# news_page_from_class2
